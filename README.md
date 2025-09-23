@@ -1,3 +1,3 @@
 # labdemo
-practice to the students/n
+practice to the students \n
 welcome to the git lab
